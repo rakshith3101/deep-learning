@@ -1,2 +1,3 @@
-# deep-learning
-creating deep learning models
+Deep learning is a machine learning technique that teaches our computer to define or to predict that data using neurons(similar to brain neurons) and many other such critical items. I'm more fascinated about deep learning methodologies which paved my way for learning and exploring many well defined techniques of machine learning and deep learning as well.
+I've made an attempt to put my work in this deep learning repo which helped me in opening up myself in this machine learning realm.
+I'm so much eager and happy to make contributions and also glad to know if there's any corrections or improvement factors that I should've considered in this mini project🌱.
